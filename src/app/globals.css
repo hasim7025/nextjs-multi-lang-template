@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: #ffffff;
+    --foreground: #171717;
+  }
+
+  html {
+    font-family: var(--font-italiana), ui-serif, Georgia, serif;
+  }
+
+  body {
+    color: var(--foreground);
+    background: var(--background);
+  }
+}
+
+@media (max-width: 768px) {
+  body {
+    font-family: var(--font-playfair), ui-serif, Georgia, serif;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Hide scrollbar */
+.scrollbar-none::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, and Edge */
+}
+
+.scrollbar-none {
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+  scrollbar-width: none; /* Firefox */
+}

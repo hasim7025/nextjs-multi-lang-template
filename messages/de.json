@@ -1,0 +1,32 @@
+{
+  "Header": {
+    "home": "START",
+    "aboutus": "ÜBER UNS",
+    "services": "LEISTUNGEN",
+    "experiences": "ERFAHRUNGEN",
+    "gallery": "GALERIE",
+    "request": "ANFRAGE",
+    "contact": "KONTAKT",
+    "booking": "BUCHUNG",
+    "menu": "MENU",
+    "search": "Suchen",
+    "language": "de",
+    "firstname": "Vorname",
+    "lastname": "Nachname",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "message": "Nachricht",
+    "send": "Senden",
+    "firstname_placeholder": "Vorname",
+    "lastname_placeholder": "Nachname",
+    "email_placeholder": "E-Mail-Adresse",
+    "phone_placeholder": "Telefonnummer",
+    "message_placeholder": "Wie können wir Ihnen helfen?",
+    "thank_you": "Vielen Dank! Ihre Nachricht wurde gesendet.",
+    "name_required": "Dieses Feld ist erforderlich.",
+    "lastname_required": "Dieses Feld ist erforderlich.",
+    "phone_required": "Dieses Feld ist erforderlich.",
+    "email_required": "Dieses Feld ist erforderlich.",
+    "email_invalid": "E-Mail ist ungültig."
+  }
+}
