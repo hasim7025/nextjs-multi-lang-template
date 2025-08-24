@@ -1,2 +1,1 @@
-Villa Kramer Website
-#TEST
+nextjs-multi-lang-template
